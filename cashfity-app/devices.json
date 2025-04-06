@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Smartphone",
+        "price": 299.99,
+        "repairable": true,
+        "image": "smartphone.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Laptop",
+        "price": 799.99,
+        "repairable": true,
+        "image": "laptop.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Tablet",
+        "price": 199.99,
+        "repairable": true,
+        "image": "tablet.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Smart Watch",
+        "price": 149.99,
+        "repairable": true,
+        "image": "smartwatch.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Gaming Console",
+        "price": 499.99,
+        "repairable": true,
+        "image": "console.jpg"
+    }
+]
